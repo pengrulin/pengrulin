@@ -20,7 +20,7 @@ I'm a recent Boston University graduate with a Master's in Business Analytics. I
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-F7DF1E?style=flat&logo=SQL)
 <!-- Add more language badges as needed -->
 
 ### Frameworks & Libraries
