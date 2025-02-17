@@ -1,11 +1,10 @@
 <!--
-  Hi there! I'm [Your Name] — a [Your Title/Role].
-  This README is inspired by Helen's amazing profile: https://github.com/Helenbzbz/Helenbzbz
+  Hi there! I'm Kevin Lin.
 -->
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kevin Lin 👋
 
-I'm a [Your Profession/Title] based in [Your Location]. I'm passionate about leveraging my skills in strategy, product development, and analytics to drive business success.
+I'm a recent Boston University graduate with a Master's in Business Analytics. I'm passionate about leveraging my skills in strategy, product development, and analytics to drive business success.
 
 ## About Me
 
@@ -48,17 +47,14 @@ Here are a few projects I've been working on recently:
 
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengrulin&show_icons=true&theme=radical)
 
 <!-- Optionally add more widgets, like top languages or streak stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengrulin&layout=compact&theme=radical)
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/pengru-lin)
 
 ---
 
-*This README is built with inspiration from [Helen's GitHub README](https://github.com/Helenbzbz/Helenbzbz). Feel free to customize it to showcase your unique style and projects!*
