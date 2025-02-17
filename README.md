@@ -13,6 +13,9 @@ When I'm not immersed in data or brainstorming strategies, I love to stay active
 - 🐾 **Proud Pet Parent:** I share my life with a cute golden retriever who never fails to brighten my day.
 - 🚀 **Future Entrepreneur:** I’m on a journey to discover and launch my venture — still figuring out what it will be, but the dream is alive!
 
+
+---
+
 ### Tool Kits  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengrulin&theme=" />  
 
