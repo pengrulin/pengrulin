@@ -7,14 +7,11 @@
 I'm a recent Boston University graduate with a Master's in Business Analytics. I'm passionate about leveraging my skills in strategy, product development, and analytics to drive business success.
 
 ## About Me
+- When I'm not immersed in data or brainstorming strategies, I love to stay active and explore life beyond the screen:
+- ⚽ **Sports Fanatic:** Whether it's soccer, tennis, golf, or badminton, I’m always up for a game.
+- 🐾 **Proud Pet Parent:** I share my life with a cute golden retriever who never fails to brighten my day.
+- 🚀 **Future Entrepreneur:** I’m on a journey to discover and launch my venture—still figuring out what it will be, but the dream is alive!
 
-- 🔍 **Current Status:** Actively seeking full-time roles in **Strategy, Product, and Analytics**
-- 🔭 I’m currently working on **[Your Current Project or Interest]**
-- 🌱 I’m learning **[Technologies/Concepts You're Learning]**
-- 👯 I’m looking to collaborate on **[Types of Projects You’re Interested In]**
-- 💬 Ask me about **[Your Expertise/Interests]**
-- 📫 How to reach me: **[Your Email or Preferred Contact Method]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
 
 ### Tool Kits  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengrulin&theme=" />  
@@ -24,7 +21,7 @@ I'm a recent Boston University graduate with a Master's in Business Analytics. I
 
 ---
 
-## My Projects
+## Recent Projects
 
 Here are a few projects I've been working on recently:
 
