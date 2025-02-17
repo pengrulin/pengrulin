@@ -2,16 +2,25 @@
   Hi there! I'm Kevin Lin.
 -->
 
-# Hi, I'm Kevin Lin 👋
+# Hi there, I'm Kevin Lin 👋
+I'm a Business Analytics enthusiast who loves diving into data and finding insights that drive strategy and innovation. But there's more to me than just numbers and models—I enjoy a vibrant mix of sports, life with my adorable golden retriever, and dreaming big about future entrepreneurial ventures.
 
-I'm a recent Boston University graduate with a Master's in Business Analytics. I'm passionate about leveraging my skills in strategy, product development, and analytics to drive business success.
+## Who Am I?
 
-## About Me
-- When I'm not immersed in data or brainstorming strategies, I love to stay active and explore life beyond the screen:
+- **Based in:** St. James, NY  
+- **Education:**  
+  - M.S. in Business Analytics from Boston University, Questrom School of Business  
+  - B.S. in Business Analytics & Entrepreneurship from Babson College  
+- **Professional Focus:**  
+  - Data Analytics, Product Strategy, and leveraging insights for growth.
+
+## Outside of Work
+
+When I'm not immersed in data or brainstorming strategies, I love to stay active and explore life beyond the screen:
+
 - ⚽ **Sports Fanatic:** Whether it's soccer, tennis, golf, or badminton, I’m always up for a game.
 - 🐾 **Proud Pet Parent:** I share my life with a cute golden retriever who never fails to brighten my day.
-- 🚀 **Future Entrepreneur:** I’m on a journey to discover and launch my venture—still figuring out what it will be, but the dream is alive!
-
+- 🚀 **Future Entrepreneur:** I’m on a journey to discover and launch my own venture—still figuring out what it will be, but the dream is alive!
 
 ### Tool Kits  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengrulin&theme=" />  
@@ -40,9 +49,13 @@ Here are a few projects I've been working on recently:
 <!-- Optionally add more widgets, like top languages or streak stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengrulin&layout=compact&theme=radical)
 
-## Connect with Me
+## Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/pengru-lin)
+I'm always excited to chat about data, sports, or the latest business trends. Feel free to reach out!
 
----
+- **Email:** [plin3@bu.edu](mailto:pengrulin33@gmail.com)
+- **LinkedIn:** [pengru-lin](https://www.linkedin.com/in/pengru-lin)
+- **GitHub:** [pengrulin](https://github.com/pengrulin)
+
+Thanks for stopping by, and have a great day!
 
