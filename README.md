@@ -44,12 +44,6 @@ Here are a few projects I've been working on recently:
 
 <!-- Add more projects as needed -->
 
-## GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengrulin&show_icons=true&theme=radical)
-
-<!-- Optionally add more widgets, like top languages or streak stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengrulin&layout=compact&theme=radical)
 
 ## Let’s Connect
 
