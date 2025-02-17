@@ -7,10 +7,12 @@ I'm a Business Analytics enthusiast who loves diving into data and finding insig
 
 ## Who Am I?
 
-- **Based in:** St. James, NY  
+- **Based in:** New York
+
 - **Education:**  
   - M.S. in Business Analytics from Boston University, Questrom School of Business  
-  - B.S. in Business Analytics & Entrepreneurship from Babson College  
+  - B.S. in Business Analytics & Entrepreneurship from Babson College
+  
 - **Professional Focus:**  
   - Data Analytics, Product Strategy, and leveraging insights for growth.
 
