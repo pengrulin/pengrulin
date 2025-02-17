@@ -16,22 +16,13 @@ I'm a recent Boston University graduate with a Master's in Business Analytics. I
 - 📫 How to reach me: **[Your Email or Preferred Contact Method]**
 - ⚡ Fun fact: **[A Fun Fact About You]**
 
-## Technologies & Tools
+### Tool Kits  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengrulin&theme=" />  
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-F7DF1E?style=flat&logo=SQL)
-<!-- Add more language badges as needed -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pengrulin?cardType=github&theme=flag-brazil)](https://git.io/awesome-stats-card)  
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-<!-- Add additional frameworks/libraries here -->
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-<!-- List any other tools or platforms you use -->
+---
 
 ## My Projects
 
