@@ -1,5 +1,5 @@
 <!--
-  Hi there! I'm Kevin Lin.
+  README Profile of Kevin Lin.
 -->
 
 # Hi there, I'm Kevin Lin 👋
