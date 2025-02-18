@@ -28,13 +28,14 @@ When I'm not immersed in data or brainstorming strategies, I love to stay active
 
 Here are a few projects I've been working on recently:
 
-- **[Project One](https://github.com/yourusername/project-one)**  
-  A brief description of what this project does.
+- **[RealWaste Classification](https://github.com/pengrulin/RealWaste-Classification)**  
+  This project develops an automated waste sorting system using deep learning to improve recycling efficiency. It employs a custom CNN and a hybrid ResNet50-KNN model to classify waste into nine categories, including cardboard, food organics, glass, metal, and plastic.
 
-- **[Project Two](https://github.com/yourusername/project-two)**  
-  A short explanation of this project and its features.
+- **[CNN Articles Sentiment Analysis](https://github.com/pengrulin/CNN-News-Sentiment-Analysis)**
+- This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques and the NLTK sentiment analyzer, alongside market basket analysis and timeline visualizations, to identify sentiment patterns across sections and over time.
 
-<!-- Add more projects as needed -->
+- **[NYC Taxi Price Estimaztion](https://github.com/pengrulin/NYC-Taxi-Price-Estimation)**  
+  This project utilizes predictive analytics to optimize NYC taxi services by analyzing TLC Trip Record Data. It identifies fare pricing patterns and inefficiencies through data exploration, feature engineering, and model development. The goal is to improve pricing fairness and operational efficiency for both customers and taxi companies.
 
 ---
 
