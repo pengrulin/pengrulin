@@ -12,7 +12,7 @@ When I'm not immersed in data or brainstorming strategies, I love to stay active
 - ⚽ **Sports Fanatic:** Whether it's soccer, tennis, golf, or badminton, I’m always up for a game.
 - 🐾 **Proud Pet Parent:** I share my life with a cute golden retriever who never fails to brighten my day.
 - 🤔 **Inquisitive Explorer:** I’m always fascinated by how things work and love unraveling the logic behind everyday puzzles.
-- 🚀 **Future Entrepreneur:** I’m inspired to create innovations that make a positive impact, even if I’m still figuring out exactly what that venture will be.
+- 🏔️ **Aspiring Innovator:** Driven to create meaningful solutions that make a positive impact, even as I shape my future venture.
 
 
 ---
@@ -28,14 +28,17 @@ When I'm not immersed in data or brainstorming strategies, I love to stay active
 
 Here are a few projects I've been working on recently:
 
-- **[RealWaste Classification](https://github.com/pengrulin/RealWaste-Classification)**  
+- ♻️**RealWaste Classification**  
   This project develops an automated waste sorting system using deep learning to improve recycling efficiency. It employs a custom CNN and a hybrid ResNet50-KNN model to classify waste into nine categories, including cardboard, food organics, glass, metal, and plastic.
-
-- **[CNN Articles Sentiment Analysis](https://github.com/pengrulin/CNN-News-Sentiment-Analysis)**
+  [GitHub Repository](https://github.com/pengrulin/RealWaste-Classification)
+  
+- 📰**CNN Articles Sentiment Analysis**
 - This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques and the NLTK sentiment analyzer, alongside market basket analysis and timeline visualizations, to identify sentiment patterns across sections and over time.
+  [GitHub Repository](https://github.com/pengrulin/CNN-News-Sentiment-Analysis)
 
-- **[NYC Taxi Price Estimaztion](https://github.com/pengrulin/NYC-Taxi-Price-Estimation)**  
+- 🚖**NYC Taxi Price Estimation**  
   This project utilizes predictive analytics to optimize NYC taxi services by analyzing TLC Trip Record Data. It identifies fare pricing patterns and inefficiencies through data exploration, feature engineering, and model development. The goal is to improve pricing fairness and operational efficiency for both customers and taxi companies.
+  [GitHub Repository](https://github.com/pengrulin/NYC-Taxi-Price-Estimation) 
 
 ---
 
