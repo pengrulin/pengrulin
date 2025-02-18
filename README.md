@@ -5,13 +5,15 @@
 # Hi there, I'm Kevin Lin 👋
 I'm a Business enthusiast who loves diving into data and finding insights that drive strategy and innovation. But there's more to me than just numbers and models — I enjoy a vibrant mix of sports, life with my adorable golden retriever, and dreaming big about future entrepreneurial ventures.
 
-## Me beyond the screen
+## Beyond the screen
 
 When I'm not immersed in data or brainstorming strategies, I love to stay active and explore life beyond the screen:
 
 - ⚽ **Sports Fanatic:** Whether it's soccer, tennis, golf, or badminton, I’m always up for a game.
 - 🐾 **Proud Pet Parent:** I share my life with a cute golden retriever who never fails to brighten my day.
-- 🚀 **Future Entrepreneur:** I’m on a journey to discover and launch my venture — still figuring out what it will be, but the dream is alive!
+- 🤔 **Inquisitive Explorer:** I’m always fascinated by how things work and love unraveling the logic behind everyday puzzles.
+- 🚀 **Future Entrepreneur:** I’m inspired to create innovations that make a positive impact, even if I’m still figuring out exactly what that venture will be.
+
 
 ---
 
