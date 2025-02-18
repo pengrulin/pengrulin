@@ -48,7 +48,6 @@ I'm always excited to chat about data, sports, or the latest business trends. Fe
 
 - **Email:** [plin3@bu.edu](mailto:pengrulin33@gmail.com)
 - **LinkedIn:** [pengru-lin](https://www.linkedin.com/in/pengru-lin)
-- **GitHub:** [pengrulin](https://github.com/pengrulin)
 
 Thanks for stopping by, and have a great day!
 
