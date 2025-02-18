@@ -5,7 +5,7 @@
 # Hi there, I'm Kevin Lin 👋
 I'm a Business enthusiast who loves diving into data and finding insights that drive strategy and innovation. But there's more to me than just numbers and models — I enjoy a vibrant mix of sports, life with my adorable golden retriever, and dreaming big about future entrepreneurial ventures.
 
-## Beyond the screen
+## Me beyond the screen
 
 When I'm not immersed in data or brainstorming strategies, I love to stay active and explore life beyond the screen:
 
