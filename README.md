@@ -2,7 +2,7 @@
   README Profile of Kevin Lin.
 -->
 
-# Hi there, I'm Kevin Lin 👋
+# Hi there, I'm Kevin Lin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a Business enthusiast who loves diving into data and finding insights that drive strategy and innovation. But there's more to me than just numbers and models — I enjoy a vibrant mix of sports, life with my adorable golden retriever, and dreaming big about future entrepreneurial ventures.
 
 ## Beyond the screen
