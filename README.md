@@ -33,7 +33,7 @@ Here are a few projects I've been working on recently:
   [GitHub Repository](https://github.com/pengrulin/RealWaste-Classification)
   
 - 📰**CNN Articles Sentiment Analysis**
-- This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques and the NLTK sentiment analyzer, alongside market basket analysis and timeline visualizations, to identify sentiment patterns across sections and over time.
+  This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques and the NLTK sentiment analyzer, alongside market basket analysis and timeline visualizations, to identify sentiment patterns across sections and over time.
   [GitHub Repository](https://github.com/pengrulin/CNN-News-Sentiment-Analysis)
 
 - 🚖**NYC Taxi Price Estimation**  
