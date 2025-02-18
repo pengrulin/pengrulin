@@ -33,11 +33,11 @@ Here are a few projects I've been working on recently:
   [GitHub Repository](https://github.com/pengrulin/RealWaste-Classification)
   
 - 📰 **CNN Articles Sentiment Analysis**  
-  This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques and the NLTK sentiment analyzer, alongside market basket analysis and timeline visualizations, to identify sentiment patterns across sections and over time.
+  This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques and the NLTK sentiment analyzer, alongside market basket analysis and timeline visualizations, to identify sentiment patterns across sections and over time.  
   [GitHub Repository](https://github.com/pengrulin/CNN-News-Sentiment-Analysis)
 
 - 🚖 **NYC Taxi Price Estimation**  
-  This project utilizes predictive analytics to optimize NYC taxi services by analyzing TLC Trip Record Data. It identifies fare pricing patterns and inefficiencies through data exploration, feature engineering, and model development. The goal is to improve pricing fairness and operational efficiency for both customers and taxi companies.
+  This project utilizes predictive analytics to optimize NYC taxi services by analyzing TLC Trip Record Data. It identifies fare pricing patterns and inefficiencies through data exploration, feature engineering, and model development. The goal is to improve pricing fairness and operational efficiency for both customers and taxi companies.  
   [GitHub Repository](https://github.com/pengrulin/NYC-Taxi-Price-Estimation) 
 
 ---
