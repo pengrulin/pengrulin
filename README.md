@@ -29,15 +29,15 @@ When I'm not immersed in data or brainstorming strategies, I love to stay active
 Here are a few projects I've been working on recently:
 
 - ♻️ **RealWaste Classification**  
-  This project develops an automated waste sorting system using deep learning to improve recycling efficiency. It employs a custom CNN and a hybrid ResNet50-KNN model to classify waste into nine categories, including cardboard, food organics, glass, metal, and plastic.
+  This project develops an automated waste sorting system using deep learning to improve recycling efficiency. It employs a custom CNN and a hybrid ResNet50-KNN model to classify waste into nine categories: cardboard, food organics, glass, metal, plastic, etc.  
   [GitHub Repository](https://github.com/pengrulin/RealWaste-Classification)
   
 - 📰 **CNN Articles Sentiment Analysis**  
-  This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques and the NLTK sentiment analyzer, alongside market basket analysis and timeline visualizations, to identify sentiment patterns across sections and over time.  
+  This project uses NLP to analyze CNN articles (2011–2022) for sentiment and tone, aiming to understand messaging and potential biases. It applies text preprocessing techniques, the NLTK sentiment analyzer, market basket analysis, and timeline visualizations to identify sentiment patterns across sections and over time.  
   [GitHub Repository](https://github.com/pengrulin/CNN-News-Sentiment-Analysis)
 
 - 🚖 **NYC Taxi Price Estimation**  
-  This project utilizes predictive analytics to optimize NYC taxi services by analyzing TLC Trip Record Data. It identifies fare pricing patterns and inefficiencies through data exploration, feature engineering, and model development. The goal is to improve pricing fairness and operational efficiency for both customers and taxi companies.  
+  This project utilizes predictive analytics to optimize NYC taxi services by analyzing TLC Trip Record Data. Through data exploration, feature engineering, and model development, it identifies fare pricing patterns and inefficiencies. The goal is to improve pricing fairness and operational efficiency for both customers and taxi companies.  
   [GitHub Repository](https://github.com/pengrulin/NYC-Taxi-Price-Estimation) 
 
 ---
